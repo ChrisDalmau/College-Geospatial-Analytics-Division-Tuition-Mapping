@@ -46,9 +46,9 @@ TQDM (for progress bars)
 
 📌 Key Insights
 
-Division I schools are more concentrated in the South, especially in states like Texas, Georgia, and Florida.
+Division III schools are more concentrated in the North, reflecting the presence of smaller liberal arts institutions.
 
-Division III schools are more prevalent in the North, aligning with denser clusters of private liberal arts colleges.
+Division I schools dominate in the South, often reflecting greater athletic emphasis.
 
-Higher out-of-state tuition tends to concentrate on the coasts, particularly the Northeast and West Coast.
+High out-of-state tuition values cluster around the coasts, especially in the Northeast and California.
 
